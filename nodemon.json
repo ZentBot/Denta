@@ -1,0 +1,3 @@
+{
+  "ignore": ["ZentBot", "node_modules", "database", "logs"]
+}
